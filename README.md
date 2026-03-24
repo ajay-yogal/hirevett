@@ -2,7 +2,7 @@
 
 ## 1. Project Overview
 
-**Project Name:** HireVett
+**Project Name:** HireVett   
 **Category:** Talent Evaluation as a Service (TEaaS)  
 **Tech Stack:** PHP Laravel, MySQL, NGINX, Blade/Livewire (or Vue.js)  
 **Platform Type:** Web-based SaaS Application   
